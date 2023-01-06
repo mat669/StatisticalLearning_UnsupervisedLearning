@@ -1,0 +1,91 @@
+﻿"ITTER107","Territorio","MISURA1","Misura","PROBL_ZONRES","Presenza di problemi nella zona di residenza","TIME","Seleziona periodo","Value","Flag Codes","Flags"
+"IT","Italia","10","valori per cento","1","inquinamento","2019","2019",11.7,,
+"IT","Italia","10","valori per cento","2","rumori","2019","2019",11.7,,
+"IT","Italia","10","valori per cento","3","criminalità","2019","2019",9.3,,
+"ITC","Nord-ovest","10","valori per cento","1","inquinamento","2019","2019",13.7,,
+"ITC","Nord-ovest","10","valori per cento","2","rumori","2019","2019",14.3,,
+"ITC","Nord-ovest","10","valori per cento","3","criminalità","2019","2019",10.2,,
+"ITC1","Piemonte","10","valori per cento","1","inquinamento","2019","2019",10.4,,
+"ITC1","Piemonte","10","valori per cento","2","rumori","2019","2019",14.7,,
+"ITC1","Piemonte","10","valori per cento","3","criminalità","2019","2019",10.3,,
+"ITC2","Valle d'Aosta / Vallée d'Aoste","10","valori per cento","1","inquinamento","2019","2019",,"0","il dato non raggiunge la metà della cifra minima considerata"
+"ITC2","Valle d'Aosta / Vallée d'Aoste","10","valori per cento","2","rumori","2019","2019",,"0","il dato non raggiunge la metà della cifra minima considerata"
+"ITC2","Valle d'Aosta / Vallée d'Aoste","10","valori per cento","3","criminalità","2019","2019",,"0","il dato non raggiunge la metà della cifra minima considerata"
+"ITC3","Liguria","10","valori per cento","1","inquinamento","2019","2019",15.2,,
+"ITC3","Liguria","10","valori per cento","2","rumori","2019","2019",15.6,,
+"ITC3","Liguria","10","valori per cento","3","criminalità","2019","2019",9.2,,
+"ITC4","Lombardia","10","valori per cento","1","inquinamento","2019","2019",15,,
+"ITC4","Lombardia","10","valori per cento","2","rumori","2019","2019",14.1,,
+"ITC4","Lombardia","10","valori per cento","3","criminalità","2019","2019",10.5,,
+"ITD","Nord-est","10","valori per cento","1","inquinamento","2019","2019",11.2,,
+"ITD","Nord-est","10","valori per cento","2","rumori","2019","2019",9.5,,
+"ITD","Nord-est","10","valori per cento","3","criminalità","2019","2019",10.5,,
+"ITD1","Provincia Autonoma Bolzano / Bozen","10","valori per cento","1","inquinamento","2019","2019",7.9,"n","dato statisticamente non significativo (vedasi metadati di dataset)"
+"ITD1","Provincia Autonoma Bolzano / Bozen","10","valori per cento","2","rumori","2019","2019",9.4,"n","dato statisticamente non significativo (vedasi metadati di dataset)"
+"ITD1","Provincia Autonoma Bolzano / Bozen","10","valori per cento","3","criminalità","2019","2019",9.7,"n","dato statisticamente non significativo (vedasi metadati di dataset)"
+"ITD2","Provincia Autonoma Trento","10","valori per cento","1","inquinamento","2019","2019",5.6,"n","dato statisticamente non significativo (vedasi metadati di dataset)"
+"ITD2","Provincia Autonoma Trento","10","valori per cento","2","rumori","2019","2019",5.2,"n","dato statisticamente non significativo (vedasi metadati di dataset)"
+"ITD2","Provincia Autonoma Trento","10","valori per cento","3","criminalità","2019","2019",5.7,"n","dato statisticamente non significativo (vedasi metadati di dataset)"
+"ITD3","Veneto","10","valori per cento","1","inquinamento","2019","2019",9.6,,
+"ITD3","Veneto","10","valori per cento","2","rumori","2019","2019",7.8,,
+"ITD3","Veneto","10","valori per cento","3","criminalità","2019","2019",6.8,,
+"ITD4","Friuli-Venezia Giulia","10","valori per cento","1","inquinamento","2019","2019",8.2,,
+"ITD4","Friuli-Venezia Giulia","10","valori per cento","2","rumori","2019","2019",11.3,,
+"ITD4","Friuli-Venezia Giulia","10","valori per cento","3","criminalità","2019","2019",5.4,"n","dato statisticamente non significativo (vedasi metadati di dataset)"
+"ITD5","Emilia-Romagna","10","valori per cento","1","inquinamento","2019","2019",14.7,,
+"ITD5","Emilia-Romagna","10","valori per cento","2","rumori","2019","2019",11.2,,
+"ITD5","Emilia-Romagna","10","valori per cento","3","criminalità","2019","2019",16.3,,
+"ITE","Centro","10","valori per cento","1","inquinamento","2019","2019",11.2,,
+"ITE","Centro","10","valori per cento","2","rumori","2019","2019",11.6,,
+"ITE","Centro","10","valori per cento","3","criminalità","2019","2019",9.6,,
+"ITE1","Toscana","10","valori per cento","1","inquinamento","2019","2019",8.5,,
+"ITE1","Toscana","10","valori per cento","2","rumori","2019","2019",10.5,,
+"ITE1","Toscana","10","valori per cento","3","criminalità","2019","2019",7,,
+"ITE2","Umbria","10","valori per cento","1","inquinamento","2019","2019",6.4,"n","dato statisticamente non significativo (vedasi metadati di dataset)"
+"ITE2","Umbria","10","valori per cento","2","rumori","2019","2019",5.8,,
+"ITE2","Umbria","10","valori per cento","3","criminalità","2019","2019",10.7,,
+"ITE3","Marche","10","valori per cento","1","inquinamento","2019","2019",6.2,,
+"ITE3","Marche","10","valori per cento","2","rumori","2019","2019",6.6,,
+"ITE3","Marche","10","valori per cento","3","criminalità","2019","2019",5.8,,
+"ITE4","Lazio","10","valori per cento","1","inquinamento","2019","2019",14.9,,
+"ITE4","Lazio","10","valori per cento","2","rumori","2019","2019",14.4,,
+"ITE4","Lazio","10","valori per cento","3","criminalità","2019","2019",12,,
+"ITF","Sud","10","valori per cento","1","inquinamento","2019","2019",12.7,,
+"ITF","Sud","10","valori per cento","2","rumori","2019","2019",12.5,,
+"ITF","Sud","10","valori per cento","3","criminalità","2019","2019",9,,
+"ITF1","Abruzzo","10","valori per cento","1","inquinamento","2019","2019",5.5,"n","dato statisticamente non significativo (vedasi metadati di dataset)"
+"ITF1","Abruzzo","10","valori per cento","2","rumori","2019","2019",8.9,"n","dato statisticamente non significativo (vedasi metadati di dataset)"
+"ITF1","Abruzzo","10","valori per cento","3","criminalità","2019","2019",,"0","il dato non raggiunge la metà della cifra minima considerata"
+"ITF2","Molise","10","valori per cento","1","inquinamento","2019","2019",,"0","il dato non raggiunge la metà della cifra minima considerata"
+"ITF2","Molise","10","valori per cento","2","rumori","2019","2019",,"0","il dato non raggiunge la metà della cifra minima considerata"
+"ITF2","Molise","10","valori per cento","3","criminalità","2019","2019",,"0","il dato non raggiunge la metà della cifra minima considerata"
+"ITF3","Campania","10","valori per cento","1","inquinamento","2019","2019",19.4,,
+"ITF3","Campania","10","valori per cento","2","rumori","2019","2019",16.1,,
+"ITF3","Campania","10","valori per cento","3","criminalità","2019","2019",14.4,,
+"ITF4","Puglia","10","valori per cento","1","inquinamento","2019","2019",8.4,,
+"ITF4","Puglia","10","valori per cento","2","rumori","2019","2019",12.4,,
+"ITF4","Puglia","10","valori per cento","3","criminalità","2019","2019",6.4,,
+"ITF5","Basilicata","10","valori per cento","1","inquinamento","2019","2019",7.6,"n","dato statisticamente non significativo (vedasi metadati di dataset)"
+"ITF5","Basilicata","10","valori per cento","2","rumori","2019","2019",,"0","il dato non raggiunge la metà della cifra minima considerata"
+"ITF5","Basilicata","10","valori per cento","3","criminalità","2019","2019",,"0","il dato non raggiunge la metà della cifra minima considerata"
+"ITF6","Calabria","10","valori per cento","1","inquinamento","2019","2019",11.1,,
+"ITF6","Calabria","10","valori per cento","2","rumori","2019","2019",8.8,,
+"ITF6","Calabria","10","valori per cento","3","criminalità","2019","2019",4.4,"n","dato statisticamente non significativo (vedasi metadati di dataset)"
+"ITG","Isole","10","valori per cento","1","inquinamento","2019","2019",6.4,,
+"ITG","Isole","10","valori per cento","2","rumori","2019","2019",7.2,,
+"ITG","Isole","10","valori per cento","3","criminalità","2019","2019",4.8,,
+"ITG1","Sicilia","10","valori per cento","1","inquinamento","2019","2019",7.1,,
+"ITG1","Sicilia","10","valori per cento","2","rumori","2019","2019",7.3,,
+"ITG1","Sicilia","10","valori per cento","3","criminalità","2019","2019",4.9,,
+"ITG2","Sardegna","10","valori per cento","1","inquinamento","2019","2019",4.5,"n","dato statisticamente non significativo (vedasi metadati di dataset)"
+"ITG2","Sardegna","10","valori per cento","2","rumori","2019","2019",6.7,"n","dato statisticamente non significativo (vedasi metadati di dataset)"
+"ITG2","Sardegna","10","valori per cento","3","criminalità","2019","2019",4.6,"n","dato statisticamente non significativo (vedasi metadati di dataset)"
+"2","centro area metropolitana","10","valori per cento","1","inquinamento","2019","2019",11.6,,
+"2","centro area metropolitana","10","valori per cento","2","rumori","2019","2019",12.1,,
+"2","centro area metropolitana","10","valori per cento","3","criminalità","2019","2019",12.2,,
+"3","periferia area metropolitana","10","valori per cento","1","inquinamento","2019","2019",3.5,,
+"3","periferia area metropolitana","10","valori per cento","2","rumori","2019","2019",4.7,,
+"3","periferia area metropolitana","10","valori per cento","3","criminalità","2019","2019",4,"n","dato statisticamente non significativo (vedasi metadati di dataset)"
+"6","fino a 2.000 ab.","10","valori per cento","1","inquinamento","2019","2019",11.9,,
+"6","fino a 2.000 ab.","10","valori per cento","2","rumori","2019","2019",12.3,,
+"6","fino a 2.000 ab.","10","valori per cento","3","criminalità","2019","2019",9.1,,
