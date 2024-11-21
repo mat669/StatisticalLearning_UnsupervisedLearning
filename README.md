@@ -1,6 +1,7 @@
 # Unsupervised Learning Analysis on Italian Regional Habits and Living Conditions
 
 This repository contains the code and analysis performed for an unsupervised learning project aimed at understanding the clustering and patterns of habits and living conditions across Italian regions in 2019.
+![Image](images/Dendogram.png)
 
 ## Project Structure
 
